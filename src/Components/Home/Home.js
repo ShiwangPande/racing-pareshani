@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import './Home.css'
-import vdo from '../Assets/Loader.gif'
+import vdo from '../Assets/vdo_Qw17Z8lZ (online-video-cutter.com).mp4'
 
 
 
