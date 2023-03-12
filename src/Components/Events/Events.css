@@ -1,0 +1,64 @@
+.bg-holder-event1 {
+    background-attachment: url("https://drive.google.com/uc?export=view&id=1a9RK3VDwMV3eb-Ukf6BybY2bOm9GIdrI");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-holder-event2 {
+    background-attachment: url("https://drive.google.com/uc?export=view&id=1hxSgzhB-UKHbACnTvJUnEhUQba-L-6SA");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-holder-event3 {
+    background-attachment: url("https://drive.google.com/uc?export=view&id=1OLT7u54ZqWOA2r760ZSiLuV7QAcQOKdY");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.c-item {
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.c-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-position: center;
+    background-size: cover;
+}
+
+.list ul{
+    list-style :square inside url('https://drive.google.com/uc?export=view&d=1rE0MHpH24_Wsr0s9wND5jmEob7z9Q9yV');
+}
+
+
+@media (max-width: 960px) {
+    .carousel-item {
+        height: 100vh;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .row row-para {
+        background-attachment: url("https://drive.google.com/uc?export=view&id=1a9RK3VDwMV3eb-Ukf6BybY2bOm9GIdrI");
+        height: 100vh;
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+}
