@@ -8,9 +8,9 @@ const data = [
         name: 'Sarvesh Girde',
         pos: 'President',
         team: 'Transmission',
-        
+
     },
-    
+
     {
         id: 2,
         pic: "https://drive.google.com/uc?export=view&id=1N-zC57ejhQYycj6JSa1WEML5AWFY1Cff",
@@ -157,8 +157,15 @@ const data = [
         name: 'Parth Khune',
         team: 'Fabrication',
     },
-    
-    
+
+    {
+        id: 25,
+        pic: "https://img.icons8.com/color/350/null/gender-neutral-user.png",
+        name: 'Pooja Shahu',
+        team: 'Design',
+    },
+
+
 
 ]
 function Tpage() {
