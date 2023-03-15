@@ -25,6 +25,11 @@ export default function Navbar() {
     setActive(!active);
   }
 
+   const handleclose = () => {
+    setTimeout(() => {
+      setActive(false)
+    }, 1000);
+  }
 
   const [loading, setLoading] = useState(false);
 
