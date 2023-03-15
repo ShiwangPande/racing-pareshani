@@ -70,6 +70,11 @@ function Gallery() {
           src={images}
           currentIndex={currentImage}
           onClose={closeImageViewer}
+          disableScroll={false}
+          backgroundStyle={{
+            backgroundColor: "rgba(0,0,0,0.9)"
+          }}
+          closeOnClickOutside={true}
         />
       )}
     </div>
