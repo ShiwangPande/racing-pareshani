@@ -28,7 +28,7 @@ export default function Navbar() {
    const handleclose = () => {
     setTimeout(() => {
       setActive(false)
-    }, 1000);
+    }, );
   }
 
   const [loading, setLoading] = useState(false);
