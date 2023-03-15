@@ -54,19 +54,19 @@ export default function Navbar() {
           </div>
           <div className="nav-center">
             <ul className={active ? "nav-menu active" : "nav-menu"}>
-              <li className="nav-item">
+              <li className="nav-item" onClick={handleclose}>
                 <Link className="nav-link" aria-current="page" to="/">HOME</Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" onClick={handleclose}>
                 <Link className="nav-link" to="/Team">TEAM</Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" onClick={handleclose}>
                 <Link className="nav-link" to="/Activity">ACTIVITIES</Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" onClick={handleclose}>
                 <Link className="nav-link" to="/Event">EVENTS</Link>
               </li>
-              <li className="nav-item">
+              <li className="nav-item" onClick={handleclose}>
                 <Link className="nav-link" to="/Gallery">GALLERY</Link>
               </li>
             </ul>
