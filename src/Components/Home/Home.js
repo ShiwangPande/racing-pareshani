@@ -83,7 +83,7 @@ function Home() {
 
             <div className="row p-4 pb-0 pe-lg-0 pt-lg-5 align-items-center m-3 my-5">
                 <div className="col-lg-4 offset-lg-1 p-0 overflow-hidden mx-auto">
-                    <img className=" ratio ratio 4x3" src="https://drive.google.com/uc?export=view&id=16HHx5VzkT4mNTgehY_TVoPzemreRSSwb" alt="" />
+                    <img className=" ratio ratio 4x3" src="https://drive.google.com/uc?export=view&id=1oK_aCTmF6HzUAgqXQR1ApQ1yIJHC8PoI" alt="" />
                 </div>
                 <div className="col-lg-7 p-3 p-lg-5 pt-lg-3 text-center">
                     <p> It all began In the year 2019, a group of enthusiastic students came together with a shared passion for motorsports to establish a student racing club. This club was aimed at providing a platform for students to come together and share their love for racing while also providing them with opportunities to hone their skills and compete in various racing events.</p>
