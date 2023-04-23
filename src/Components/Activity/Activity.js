@@ -2,49 +2,45 @@ import React from 'react'
 
 
 const act = [
+  
     {
-        id: 1,
-        text: 'Registered for Indian Karting Championship S5 in the month of September',
-    },
-
-    {
-        id: 2,
+        id: 1
         text: 'Participated in virtual round if IKC S5 and cleared it with good position in the month of October.',
     },
 
 
     {
-        id: 3,
+        id: 2,
         text: 'Conduct a workshop under DRISHTI 22 regarding IC engine and organising induction for new members in November.',
     },
 
 
     {
-        id: 4,
+        id: 3,
         text: 'Participate in technical inspection round of IKC S5 which will be conducted in December.',
     },
 
 
     {
-        id: 5,
-        text: 'Registered for Indian Karting Championship S5 in the month of September',
+        id: 4
+        text: 'Registered for Indian Karting Championship S5 in the month of September-2023',
     },
 
 
     {
-        id: 6,
+        id: 5
         text: 'Participate in final round of IKC S5 which will be held in Kolhapur at Mohite’s racing academy in the month of January.',
     },
 
 
     {
-        id: 7,
+        id: 6,
         text: 'Register the club under SAE to get access to various other competitions like SAE BAJA, SAE SUPRA.',
     },
 
 
     {
-        id: 8,
+        id: 7
         text: 'Begin the manufacturing of BAJA in the month of March.',
     },
 
