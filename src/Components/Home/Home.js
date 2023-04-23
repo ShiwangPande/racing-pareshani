@@ -144,7 +144,7 @@ function Home() {
                             </div>
                             <div className="col-lg-6 border-lg-start border-lg-bottom py-lg-8 mt-4 mt-lg-0 mb-8 mb-lg-0">
                                 <div className="process-item ms-6 ms-sm-8 ms-lg-6"><span className="process-item-number">03</span>
-                                    <h3>develop</h3>
+                                    <h3>Develop</h3>
                                     <p>To make students familiar with latest government regulations and policies related to safety and luxury, as well as, roads and highways.</p>
                                     <a href="https://morth.nic.in/related-actrules">
                                         <button type="button" className="btn px-4">Learn More</button>
@@ -158,7 +158,7 @@ function Home() {
                             </div>
                             <div className="col-lg-6 align-self-center mt-4 mt-lg-0 mt-lg-8">
                                 <div className="process-item process-item-last ms-6 ms-sm-8 ms-lg-6"><span className="process-item-number">04</span>
-                                    <h3>deploy</h3>
+                                    <h3>Deploy</h3>
                                     <p>To develop partnership with Industries for product development and research in automobile sector and traine student for their future endeavour in the Industries</p>
                                     <a href="https://heavyindustries.gov.in/UserView/index?mid=1319">
                                         <button type="button" className="btn px-4">Learn More</button>
