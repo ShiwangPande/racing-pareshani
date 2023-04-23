@@ -22,13 +22,13 @@ const act = [
 
 
     {
-        id: 4
+        id: 4,
         text: 'Registered for Indian Karting Championship S5 in the month of September-2023',
     },
 
 
     {
-        id: 5
+        id: 5,
         text: 'Participate in final round of IKC S5 which will be held in Kolhapur at Mohite’s racing academy in the month of January.',
     },
 
@@ -40,7 +40,7 @@ const act = [
 
 
     {
-        id: 7
+        id: 7,
         text: 'Begin the manufacturing of BAJA in the month of March.',
     },
 
