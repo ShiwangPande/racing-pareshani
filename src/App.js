@@ -23,6 +23,11 @@ function App() {
       setLoading(false)
     }, 3000)
   }, [])
+  
+    useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
 
   return (
     <>
