@@ -207,17 +207,22 @@ function Home() {
             <div className="container">
                 <section className="text-center " >
                     <div className="container">
-                        <h3 className='text-center py-5 text-decoration-underline' style={{ color: "red" }}>Speacial Thanks for supporting us</h3>
+                        <h3 className='text-center py-5 text-decoration-underline' style={{ color: "red" }}>Over Sponsars</h3>
+                        <div className="row justify-content-center mt-6">
+                            <div className="col-6 col-md-4 col-lg-3 d-flex flex-center">
+                                <div className="bg-light p-4 p-sm-6 h-100 rounded"><img className="logo-grid w-75" src="https://drive.google.com/uc?export=view&id=1HKzqS5ML7V67kTDn72nEDV_oO6w-2wug" alt=""/></div>
+                            </div>
 
+                        </div>
+                        <h3 className='text-center py-5 text-decoration-underline'>Speacial Thanks for supporting us</h3>
                         <div className="row align-items-center row justify-content-center text-center">
                             {supporter.map((supporter) => (
-                                <div className="col-6 col-sm-6 col-md-4 col-lg-3 shadow-lg rounded p-2 m-1">{supporter.Name}</div>
+                                <div className="col-6 col-sm-6 col-md-4 col-lg-3 shadow rounded p-2 m-1">{supporter.Name}</div>
                             ))}
 
                         </div>
                     </div>
                 </section>
-
             </div>
 
 
