@@ -81,12 +81,12 @@ function Event() {
                             <div className="col-sm-11 col-md-8 col-lg-11 col-xl-9 px-xl-5">
                                 <div className="mb-5 mb-lg-7 overflow-hidden">
                                     <h3 className=" text-center pt-5">02<hr></hr>Formula Bharat</h3>
-                                    <h5 className=" text-center text-muted">Season-4</h5>
+                                    
                                 </div>
                                 <ul className='wheel fs-5'>
                                     <li>Event No 02</li>
                                     <li>Event Name : Formula Bharat</li>
-                                    <li>Event Dated : 12-16 September 2020 </li>
+                                    <li>Event Dated : 12-16 September 2021 </li>
                                     <li>Event Loation : Kolhapur</li>
                                     
                                 </ul>
