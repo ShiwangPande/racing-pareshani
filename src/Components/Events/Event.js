@@ -53,7 +53,7 @@ function Event() {
                                     <li>Event Name : Auto India Racing  Championship</li>
                                     <li>Event Dated : 7-12 February 2020 </li>
                                     <li>Event Loation : Pune</li>
-                                    <li>Event Rank : 15/45</li>
+                                   
                                 </ul>
 
                                 <div className="card-footer text-center p-3">
@@ -80,15 +80,15 @@ function Event() {
                         <div className="row h-100 d-flex justify-content-center">
                             <div className="col-sm-11 col-md-8 col-lg-11 col-xl-9 px-xl-5">
                                 <div className="mb-5 mb-lg-7 overflow-hidden">
-                                    <h3 className=" text-center pt-5">02<hr></hr>IKC</h3>
+                                    <h3 className=" text-center pt-5">02<hr></hr>Formula Bharat</h3>
                                     <h5 className=" text-center text-muted">Season-4</h5>
                                 </div>
                                 <ul className='wheel fs-5'>
                                     <li>Event No 02</li>
-                                    <li>Event Name : India Karting Championship</li>
+                                    <li>Event Name : Formula Bharat</li>
                                     <li>Event Dated : 12-16 September 2020 </li>
                                     <li>Event Loation : Kolhapur</li>
-                                    <li>Event Rank : -/62</li>
+                                    
                                 </ul>
 
                                 <div className=" text-center p-2">
@@ -120,7 +120,7 @@ function Event() {
                                     <li>Event Name : Indian Karting  Championship</li>
                                     <li>Event Dated : 13-18 February 2023 </li>
                                     <li>Event Loation : Kolhapur</li>
-                                    <li>Event Rank : 5/41</li>
+                                    
                                 </ul>
                                 <div className="card-footer text-center p-3">
                                     <input className="btn" type="button" value="Know More" />
