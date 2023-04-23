@@ -86,11 +86,11 @@ function Home() {
                     <img className=" ratio ratio 4x3" src="https://drive.google.com/uc?export=view&id=16HHx5VzkT4mNTgehY_TVoPzemreRSSwb" alt="" />
                 </div>
                 <div className="col-lg-7 p-3 p-lg-5 pt-lg-3 text-center">
-                    <p> It all begin In the year 2019, a group of enthusiastic students came together with a shared passion for motorsports to establish a student racing club. This club was aimed at providing a platform for students to come together and share their love for racing while also providing them with opportunities to hone their skills and compete in various racing events.</p>
+                    <p> It all began In the year 2019, a group of enthusiastic students came together with a shared passion for motorsports to establish a student racing club. This club was aimed at providing a platform for students to come together and share their love for racing while also providing them with opportunities to hone their skills and compete in various racing events.</p>
                     <p> The aim of the club is to nurture and expand knowledge of automobile sector, and to cultivate interest and provide a platform to showcase practical knowledge of students irrespective of their academic backgrounds. The Automobile club, focuses on enhancing awareness of individuals about quality automation in the industry and boost excellence in vehicle design with modified safety features. </p>
                     <br></br>
                     <p className='fw-bold'>
-                        Automobiile Club @ gcoen provide an open opportunities for its students apart from their Branches and specilaization who share common interestin Automobile
+                        Automobiile Club @ gcoen provide an open opportunities for its students apart from their Branches and specilaization who share common interest in Automobile
                     </p>
                     <div className="d-grid gap-2 d-md-flex justify-content-md-center my-4 mb-lg-3">
                         <Link to="/Mission">
@@ -131,7 +131,7 @@ function Home() {
                             <div className="col-lg-6 mt-4 mb-8 my-lg-8">
                                 <div className="process-item ms-6 ms-sm-8 ms-lg-6"><span className="process-item-number">02</span>
                                     <h3>Research</h3>
-                                    <p>To be a part of Society of Automobile engineers (SAE). and get access to various research Papers and thesis related to advance development in the Mechanical and Automobile sector</p>
+                                    <p>To be a part of Society of Automotive engineers (SAE). and get access to various research Papers and thesis related to advance development in the Mechanical and Automobile sector</p>
                                     <a href="https://www.sae.org/">
                                         <button type="button" className="btn px-4">Learn More</button>
                                     </a>
@@ -145,7 +145,7 @@ function Home() {
                             <div className="col-lg-6 border-lg-start border-lg-bottom py-lg-8 mt-4 mt-lg-0 mb-8 mb-lg-0">
                                 <div className="process-item ms-6 ms-sm-8 ms-lg-6"><span className="process-item-number">03</span>
                                     <h3>Develop</h3>
-                                    <p>To make students familiar with latest government regulations and policies related to safety and luxury, as well as, roads and highways.</p>
+                                    <p>To make students familiar with latest government regulations and policies related to safety and luxury, as well as, roads and highways norms.</p>
                                     <a href="https://morth.nic.in/related-actrules">
                                         <button type="button" className="btn px-4">Learn More</button>
                                     </a>
@@ -159,7 +159,7 @@ function Home() {
                             <div className="col-lg-6 align-self-center mt-4 mt-lg-0 mt-lg-8">
                                 <div className="process-item process-item-last ms-6 ms-sm-8 ms-lg-6"><span className="process-item-number">04</span>
                                     <h3>Deploy</h3>
-                                    <p>To develop partnership with Industries for product development and research in automobile sector and traine student for their future endeavour in the Industries</p>
+                                    <p>To develop partnership with Industries for product development and research in automobile sector and train student for their future endeavour in the Industries</p>
                                     <a href="https://heavyindustries.gov.in/UserView/index?mid=1319">
                                         <button type="button" className="btn px-4">Learn More</button>
                                     </a>
@@ -177,14 +177,14 @@ function Home() {
                 <div className="row justify-content-center text-center mb-6">
                     <div className="col-lg-6">
                         <h2 className="fs-3 fs-sm-4 text-decoration-underline mb-3">Our process</h2>
-                        <p className=""> Training, Manufacturing, and racing are three distinct aspects of a racing team, each requiring specific skills and expertise. The process for manufacturing, training, and racing a racing team can be broken down into the following steps:</p>
+                        <p className=""> Training, Manufacturing, and racing are three distinct aspects of a racing team, each requiring specific skills and expertise. The process for manufacturing, training, and racing a racing team can be broken down into the following departments:</p>
                     </div>
                 </div>
                 <div className="col-md-6 col-lg  border  rounded-4 shadow-lg p-3">
                     <img className="rounded img-fluid p-5" src="https://img.icons8.com/external-sbts2018-mixed-sbts2018/58/null/external-training-lean-thinking-sbts2018-mixed-sbts2018.png" alt="" />
                     <div className="overflow-hidden" data-zanim-timeline="{}">
                         <h5 style={{ color: "red" }}>Training</h5>
-                        <p className='text-muted'>We begin our journey each year by designing our vehicle from scratch. Every component is carefully designed, taking all the parameters into consideration. The design is then subject to analysis through which all the little aberrations are removed.</p>
+                        <p className='text-muted'>We begin our journey each year by designing our vehicle from scratch. Every component is carefully designed, taking all the parameters into consideration. The design is then subjected to analysis through which all the little aberrations are removed.</p>
                     </div>
                 </div>
                 <div className="col-md-6 col-lg mt-6 mt-md-0 border rounded-4 shadow-lg p-3">
