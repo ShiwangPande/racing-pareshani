@@ -4,7 +4,7 @@ import React from 'react'
 const act = [
   
     {
-        id: 1
+        id: 1,
         text: 'Participated in virtual round if IKC S5 and cleared it with good position in the month of October.',
     },
 
