@@ -176,6 +176,7 @@ function Tpage() {
                 <h2 className='text-center py-5 text-decoration-underline' style={{ color: "red" }}>Team</h2>
 
 
+              {/* 
                 <div className="col-sm-6 col-xl-3 mx-auto">
                     <div className="card  m-3">
                         <img className="card-img-top img-fluid " src="https://img.icons8.com/color/350/null/gender-neutral-user.png" loading="lazy" alt="" width="600" height="480" />
@@ -184,7 +185,7 @@ function Tpage() {
                             <p className="text-secondary">Facluty Co-ordinator</p>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
 
                 <div className="row g-5 m-1 mb-5">
