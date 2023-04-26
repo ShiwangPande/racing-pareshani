@@ -19,9 +19,7 @@ function Mission() {
             </div>
 
 
-            {/* Message */}
-
-           /* <h1 className='text-center py-5' style={{ color: "red" }}>Message</h1>
+           {/* <h1 className='text-center py-5' style={{ color: "red" }}>Message</h1>
 
             <div className="row py-6 py-md-8 py-lg-0 text-center">
                 <div className="col-lg-4 px-5 ">
@@ -49,8 +47,8 @@ function Mission() {
                         <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
                     </div>
 
-                </div> */
-            </div>
+                </div>
+            </div> */}
         </>
     )
 }
