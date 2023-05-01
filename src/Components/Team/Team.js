@@ -172,10 +172,9 @@ import { Link } from 'react-router-dom'
         name: 'Pooja Shahu',
         team: 'Steering',
     },
-
-
-
 ]
+  
+  
 function Tpage() {
     return (
         <>
