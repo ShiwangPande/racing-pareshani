@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+  const data = [
     {
         id: 1,
         pic: "https://drive.google.com/uc?export=view&id=1fS4ityuV-qXAYb9iez6ZIQQPK4Vso7rf",
@@ -169,8 +170,9 @@ import { Link } from 'react-router-dom'
         id: 26,
         pic: "https://img.icons8.com/color/350/null/gender-neutral-user.png",
         name: 'Pooja Shahu',
-        team: 'Design',
+        team: 'Steering',
     },
+
 
 
 ]
