@@ -11,6 +11,8 @@ function Gallery() {
     'https://drive.google.com/uc?export=view&id=1_NVTsyHuM5IT_hvmcWx_yGZKRMtvhNU8',
     'https://drive.google.com/uc?export=view&id=1Z7PsCrFMEag-DJDvdyn9XInG3ftxmqH3',
     'https://drive.google.com/uc?export=view&id=1aC3kHCiKn3R4VPgAx792N06MiyRb6nr7',
+    'https://drive.google.com/uc?export=view&id=10n-3imSCR3wdVdrpKJoAa1MVM9Leuiba',
+    'https://drive.google.com/uc?export=view&id=1qmN5hXdLDO2wve_sO4Z1WLYIWA1o8vJt',
   ];
 
   const manufacturing = [
@@ -42,6 +44,10 @@ const events = [
     'https://drive.google.com/uc?export=view&id=1i7OWFgOZIVsj5bItASNzZL2joRMrRuHv',
     'https://drive.google.com/uc?export=view&id=1hplwZQ2rIJZzB0ti1NuEyTNPFiD4tGOe',
     'https://drive.google.com/uc?export=view&id=1YSUzwC_Jq9uqlZcPlxioy7f9TQK7YISy',
+    'https://drive.google.com/uc?export=view&id=1fTBOzI8iUn_vUazR-gdk1Ve80hHh6_jF',
+    'https://drive.google.com/uc?export=view&id=1B45AJBIL-t5sLOaWfNSKT0BFWfG5WPQH',
+
+
 ];
 
 
