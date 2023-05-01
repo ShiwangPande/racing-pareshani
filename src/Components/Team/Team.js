@@ -169,7 +169,7 @@ import { Link } from 'react-router-dom'
         id: 26,
         pic: "https://img.icons8.com/color/350/null/gender-neutral-user.png",
         name: 'Pooja Shahu',
-        team: 'Steering',
+        team: 'Design',
     },
 
 
