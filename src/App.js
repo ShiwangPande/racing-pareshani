@@ -10,6 +10,7 @@ import { Route, Routes } from "react-router-dom";
 import Mission from './Components/Otherpages/Mission'
 import Sponsarship from './Components/Otherpages/Sponsarship'
 import Loader from '../src/Components/Assets/Loader.gif'
+import Top from './Components/Top'
 
 export default App
 function App() {
@@ -24,15 +25,14 @@ function App() {
     }, 3000)
   }, [])
   
-    useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [])
+  
 
 
   return (
     <>
 
       <Header></Header>
+    <Top></Top>
       <div>
 
         {loading ? (
