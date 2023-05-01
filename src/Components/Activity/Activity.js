@@ -5,19 +5,19 @@ const act = [
   
     {
         id: 1,
-        text: 'Participated in virtual round if IKC S5 and cleared it with good position in the month of October.',
+        text: 'Participated in virtual round of IKC S5 and cleared it with good position in the month of October.',
     },
 
 
     {
         id: 2,
-        text: 'Conduct a workshop under DRISHTI 22 regarding IC engine and organising induction for new members in November.',
+        text: 'Conducted a workshop under ADHYAAYA 22 regarding IC engine and organising induction for new members in November.',
     },
 
 
     {
         id: 3,
-        text: 'Participate in technical inspection round of IKC S5 which will be conducted in December.',
+        text: 'Participate in technical inspection round of IKC S5 which was conducted in December.',
     },
 
 
@@ -29,7 +29,7 @@ const act = [
 
     {
         id: 5,
-        text: 'Participate in final round of IKC S5 which will be held in Kolhapur at Mohite’s racing academy in the month of January.',
+        text: 'Participate in final round of IKC S5 which was held in Kolhapur at Mohite’s racing academy in the month of January.',
     },
 
 
