@@ -1,120 +1,128 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const data = [
     {
         id: 1,
         pic: "https://drive.google.com/uc?export=view&id=1fS4ityuV-qXAYb9iez6ZIQQPK4Vso7rf",
         name: 'Sarvesh Girde',
-        pos: 'President',
+        pos: 'Advisor',
         team: 'Transmission',
 
     },
-
     {
         id: 2,
-        pic: "https://drive.google.com/uc?export=view&id=1N-zC57ejhQYycj6JSa1WEML5AWFY1Cff",
-        name: 'Niraj Dudhkaware',
-        pos: 'Secretary',
+        pic: "https://drive.google.com/uc?export=view&id=1_J48F9pGQ7rxxcA7Tc0fIauGeJY4VolN",
+        name: 'Sarthak Zilpe',
+        pos: 'Advisor',
+        team: 'Braking',
+    },
+
+    {
+        id: 3,
+        pic: "https://drive.google.com/uc?export=view&id=18PZvWQD25blZ_iQlSuH2GQIN6vQnFJGX",
+        name: 'Tanmay Turkar',
+        pos: 'Advisor',
         team: 'Design',
     },
     {
-        id: 3,
-        pic: "https://drive.google.com/uc?export=view&id=1_J48F9pGQ7rxxcA7Tc0fIauGeJY4VolN",
-        name: 'Sarthak Zilpe',
-        pos: 'Treasurer',
-        team: 'Braking',
+        id: 4,
+        pic: "https://drive.google.com/uc?export=view&id=1KvF1T3DxT3MeKLYxsm_GlKytgYVSt1GG",
+        name: 'Om Ambarte',
+        pos: 'Advisor',
+        team: 'Steering',
     },
     {
-        id: 4,
+        id: 5,
+        pic: "https://drive.google.com/uc?export=view&id=12HiDkCZyxg0KyBQxVchRbX2VL9FHHmoQ",
+        name: 'Kaushik Maske',
+        pos: 'President',
+        team: 'Fabrication',
+    },
+    {
+        id: 6,
+        pic: "https://drive.google.com/uc?export=view&id=1Afq8lHu3grikC-R1L-Yckpz1CX3kSgJw",
+        name: 'Saurav Bondhate',
+        pos: 'Advisor',
+        team: 'Fabrication',
+    },
+    {
+        id: 7,
+        pic: "https://drive.google.com/uc?export=view&id=1YjkUc4OoP7cnDVN6CMJAuD-liwi1Llfc",
+        name: 'Anirudha Mule',
+        pos: 'Vice-President',
+        team: 'Steering',
+    },
+    {
+        id: 8,
+        pic: "https://drive.google.com/uc?export=view&id=1S97S51MAhGVc8YTy8hqHWlvF7KzbI8J-",
+        name: 'Himanshu Wanjari',
+        pos: 'Secretary',
+        team: 'Steering',
+    },
+    {
+        id: 9,
+        pic: "https://drive.google.com/uc?export=view&id=1rVY7lmE6dhaQ_y7XJRdDv0Q3qulpJGHG",
+        name: 'Nikhil Pawar',
+        pos: 'Treasurer',
+        team: 'Transmission',
+    },
+    {
+        id: 10,
+        pic: "https://drive.google.com/uc?export=view&id=1N-zC57ejhQYycj6JSa1WEML5AWFY1Cff",
+        name: 'Niraj Dudhkaware',
+        team: 'Design',
+    },
+    {
+        id: 11,
         pic: "https://drive.google.com/uc?export=view&id=19zMIjZ3pLKWJPDKAEyxvM67BnT1I3rJX",
         name: 'Vaibhav Pathare',
         team: 'Transmission',
     },
     {
-        id: 5,
-        pic: "https://drive.google.com/uc?export=view&id=18PZvWQD25blZ_iQlSuH2GQIN6vQnFJGX",
-        name: 'Tanmay Turkar',
-        team: 'Design',
-    },
-    {
-        id: 6,
+        id: 12,
         pic: "https://drive.google.com/uc?export=view&id=1FU-jzsIO_FgGSzSEtgnznYh1xbQPKxxk",
         name: 'Shubham Chandurkar',
         team: 'Braking',
     },
     {
-        id: 7,
+        id: 13,
         pic: "https://drive.google.com/uc?export=view&id=1GyuBY9KfH9v8pEe1nB5oShBNlJiMrQBY",
         name: 'Rutuj Kothekar',
         team: 'Steering',
     },
     {
-        id: 8,
-        pic: "https://drive.google.com/uc?export=view&id=1KvF1T3DxT3MeKLYxsm_GlKytgYVSt1GG",
-        name: 'Om Ambarte',
-        team: 'Steering',
-    },
-    {
-        id: 9,
+        id: 14,
         pic: "https://drive.google.com/uc?export=view&id=1lZqQ_aIC1KhVEdZiguslw6lfCbiWA6aM",
         name: 'Atharva Gandhewar',
         team: 'Steering',
     },
+
     {
-        id: 10,
-        pic: "https://drive.google.com/uc?export=view&id=1S97S51MAhGVc8YTy8hqHWlvF7KzbI8J-",
-        name: 'Himanshu Wanjari',
-        team: 'Steering',
-    },
-    {
-        id: 11,
-        pic: "https://drive.google.com/uc?export=view&id=1Afq8lHu3grikC-R1L-Yckpz1CX3kSgJw",
-        name: 'Saurav Bondhate',
-        team: 'Fabrication',
-    },
-    {
-        id: 12,
-        pic: "https://drive.google.com/uc?export=view&id=12HiDkCZyxg0KyBQxVchRbX2VL9FHHmoQ",
-        name: 'Kaushik Maske',
-        team: 'Fabrication',
-    },
-    {
-        id: 13,
+        id: 15,
         pic: "https://drive.google.com/uc?export=view&id=1_qZeTYTp-lRIXSQ3pLVSmORGlf0VNIJh",
         name: 'Rupesh Thengari',
         team: 'Fabrication',
     },
     {
-        id: 14,
+        id: 16,
         pic: "https://drive.google.com/uc?export=view&id=1AgTbydscAtJUsrdLAM2nA2Zz7XVVHNBS",
         name: 'Vaibhav Khamankar',
         team: 'Fabrication',
     },
     {
-        id: 15,
+        id: 17,
         pic: "https://drive.google.com/uc?export=view&id=19Yux0CG-HrCAUcjV3kqADQEhqSGMnj0z",
         name: 'Mallhar Yadav',
         team: 'Fabrication',
     },
+
     {
-        id: 16,
-        pic: "https://drive.google.com/uc?export=view&id=1rVY7lmE6dhaQ_y7XJRdDv0Q3qulpJGHG",
-        name: 'Nikhil Pawar',
-        team: 'Transmission',
-    },
-    {
-        id: 17,
+        id: 18,
         pic: "https://drive.google.com/uc?export=view&id=19uTaGSfWoKVhpbRG8m_92SKIpwU7D7aj",
         name: 'Mahesh Deshmukh',
         team: 'Design',
     },
-    {
-        id: 18,
-        pic: "https://drive.google.com/uc?export=view&id=1YjkUc4OoP7cnDVN6CMJAuD-liwi1Llfc",
-        name: 'Anirudha Mule',
-        team: 'Steering',
-    },
+
     {
         id: 19,
         pic: "https://drive.google.com/uc?export=view&id=1cicCxcy7nJZxD0-AUB7V0_rjwltCFmG4",
@@ -152,19 +160,17 @@ const data = [
         team: 'Transmission',
     },
     {
-        id: 24,
+        id: 25,
         pic: "https://img.icons8.com/color/350/null/gender-neutral-user.png",
         name: 'Parth Khune',
         team: 'Fabrication',
     },
-
     {
-        id: 25,
+        id: 26,
         pic: "https://img.icons8.com/color/350/null/gender-neutral-user.png",
         name: 'Pooja Shahu',
-        team: 'Design',
+        team: 'Steering',
     },
-
 
 
 ]
